@@ -1,0 +1,36 @@
+[
+  {
+    "title": "INTELLIGENT VIDEO SURVIELLANCE SYSTEM",
+    "imageSrc": "projects/project.png",
+    "description": "This project focuses on the tracking method to detect the moving object.",
+    "skills":["OpenCV","Python","Machine Learning"],
+    "demo": "https://youtu.be/3L3naA4gMu8?si=-65bYucCrtRFqZM6",
+    "source": "https://github.com/deepshikha25nov/PROJECT"
+  },
+  {
+    "title":"MENTAL FITNESS TRACKER",
+    "imageSrc":"projects/project.png",
+    "description":"This project tracks the mental fitness of any person.",
+    "skills": ["Artificial Intelligence", "Python", "clustering"],
+    "demo": "https://docs.google.com/presentation/d/1spYp3TgqSBw94PaosZeQ0yl3FpckTPFr/edit?usp=drive_link&ouid=107727949477987317974&rtpof=true&sd=true",
+    "source":"https://github.com/deepshikha25nov/mental-fitness-tracker"
+  },
+
+  {
+    "title": "MY PORTFOLIO",
+    "imageSrc": "projects/project.png",
+    "description": "This is my responsive Portfolio project made using react. ",
+    "skills": ["HTML","CSS","JAVASCRIPT","REACT"],
+    "demo": "https://drive.google.com/file/d/15_wk1ymbtsJcbf7-jQa_ox2DizOYAYOH/view?usp=drive_link",
+    "source": "https://www.github.com"
+  },
+
+  {
+    "title": "3D ANIMATION",
+    "imageSrc": "projects/project.png",
+    "description": "This is web development project using HTML,CSS and somewhat of Javascript. ",
+    "skills": ["HTML","CSS","JAVASCRIPT"],
+    "demo": "https://drive.google.com/file/d/1CveN2bqNkLH5kgpHt1rczUf-u1EChPao/view?usp=drive_link",
+    "source": "https://github.com/deepshikha25nov/3D_animation"
+  }
+]

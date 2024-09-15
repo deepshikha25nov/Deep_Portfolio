@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "IBM Skillbuild thorugh AICTE",
+    "startDate": "June, 2023",
+    "endDate": "July 2023",
+    "experiences": ["Worked on AI based project", "Reduced load times by 50%"] 
+  },
+  {
+    "role": "Research work",
+    "organisation": "Secure Healthcare System via Blockchain",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": ["working on the project that keep tracks on vaccine using supply chain."]
+   
+  }
+]
